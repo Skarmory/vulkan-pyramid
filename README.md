@@ -5,4 +5,4 @@ Also supports resizing the window (which means rebuilding various bits of the Vu
 
 The vertex and fragment shaders provided just pass the vertex attribute colours and positions.
 
-![It spins](pyramid.gif)
+![pyramid](https://user-images.githubusercontent.com/2659328/36073575-fe121002-0f2a-11e8-9307-c1d84597d233.gif)
